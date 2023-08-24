@@ -1,0 +1,1 @@
+I want a table called 'Employee' with these columns: 'EmployeeID', 'FirstName', 'LastName', 'DepartmentID', 'DepartmentName', 'ManagerID', 'ManagerName'.
